@@ -5,7 +5,8 @@
 
 .navbar {
   display:flex;
-  justify-content: space-around;
+  justify-content:space-between;
+
   background-color:chocolate;
   /* position: fixed;/* Make it stick/fixed */ */
   top: 0; /* Stay on top */
@@ -31,7 +32,7 @@
 
 .column {
   position:relative;
-  top:90px;
+  top:40px;
   width: 30%;
   padding: 15px;
 }
