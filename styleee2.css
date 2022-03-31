@@ -6,7 +6,6 @@
 .navbar {
   display:flex;
   justify-content:space-between;
-
   background-color:chocolate;
   /* position: fixed;/* Make it stick/fixed */ */
   top: 0; /* Stay on top */
@@ -22,7 +21,7 @@
   color: white;
   display: block;
   text-decoration: none;
-  font-size:30px;
+  font-size:25px;
   width:20%;
   text-align:center;
 }
